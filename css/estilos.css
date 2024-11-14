@@ -6,7 +6,7 @@
 
 body {
     font-family: Arial, sans-serif;
-    color: #2a2a2a;
+    color: #0a0a0a;
     line-height: 1.6;
     background-color: #e6f0ff;
     display: flex;
@@ -15,7 +15,7 @@ body {
 }
 
 header, footer {
-    background-color: #2a75ff;
+    background-color: #8892C6;
     color: #ffffff;
     text-align: center;
     padding: 1em 0;
@@ -35,7 +35,7 @@ section.about, section.contact-form, section.map {
 }
 
 h2 {
-    color: #2a2a2a;
+    color: #0a0a0a;
     margin-bottom: 15px;
 }
 
