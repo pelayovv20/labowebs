@@ -340,4 +340,6 @@ módulo: Despliegue de Aplicaciones Web
   git push -u origin main
   ```
 
-  
+  ![image-20241115093119258](./proyecto_labowebs.assets/image-20241115093119258.png)
+
+  ![image-20241115093133252](./proyecto_labowebs.assets/image-20241115093133252.png)
