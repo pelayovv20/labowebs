@@ -328,3 +328,16 @@ módulo: Despliegue de Aplicaciones Web
 
    ![image-20241115091736339](./proyecto_labowebs.assets/image-20241115091736339.png)
 
+## Subida de documentación
+
+- Creo la carpeta `docs` e introduzco el archivo .md, la carpeta de imágenes y el pdf final
+
+  ![image-20241115093007868](./proyecto_labowebs.assets/image-20241115093007868.png)
+
+- Lo llevo al remoto
+
+  ```bash
+  git push -u origin main
+  ```
+
+  
